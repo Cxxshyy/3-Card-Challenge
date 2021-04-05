@@ -72,3 +72,51 @@ a {
   position: relative;
   top: 200px;
 }
+.btn-orange {
+  position: relative;
+  top: 40px;
+  left: 60px;
+  border: solid white 2px;
+  width: fit-content;
+  border-radius: 35px;
+  padding: 10px 17px;
+  color: hsl(31, 77%, 52%);
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+}
+.btn-blue {
+  position: relative;
+  top: 40px;
+  left: 60px;
+  border: solid white 2px;
+  width: fit-content;
+  border-radius: 35px;
+  padding: 10px 17px;
+  color: hsl(184, 100%, 22%);
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+}
+.btn-green {
+  position: relative;
+  top: 40px;
+  left: 60px;
+  border: solid white 2px;
+  width: fit-content;
+  border-radius: 35px;
+  padding: 10px 17px;
+  color: hsl(179, 100%, 13%);
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+}
+.btn-orange:hover {
+  background: transparent;
+  color: white;
+}
+.btn-blue:hover {
+  background: transparent;
+  color: white;
+}
+.btn-green:hover {
+  background: transparent;
+  color: white;
+}
